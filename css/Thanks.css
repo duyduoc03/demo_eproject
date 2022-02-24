@@ -1,0 +1,30 @@
+.menu-img {background-image: url("../image/AboutUs.webp");}
+#b{
+    padding: 50px 0;
+    background: #f1f5f9;
+}
+#div4{
+    margin: auto;
+    width: 30%;
+    text-align: center;
+}
+#div4 h1, #div4 p{margin: 0}
+#div4 h1{font-size: 50px}
+#div4 p{
+    font-size: 30px;
+    color: #32325d;
+}
+#div4 button{
+    margin-top: 30px;
+    padding: 8px;
+    background-color: #2980b9;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+#div4 a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}

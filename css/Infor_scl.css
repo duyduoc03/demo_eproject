@@ -1,0 +1,114 @@
+.menu-img {background-image: url("../image/AboutUs.webp");}
+#b{
+    font-family: BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    padding: 50px 4% 20px;
+    line-height: 1.5;
+    background-color: #f1f5f9;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    background-color: white;
+    padding: 20px;
+}
+.left{
+    width: 75%;
+}
+.left small{color: #7a7a7a;}
+iframe{
+    border: none;
+    width: 100%;
+    height: 250px;
+}
+#d1{
+    display: flex;
+}
+#d1 div:first-child{
+    width: 15%;
+    padding-right: 2%;
+}
+#d1 div:last-child{
+    width: 85%;
+    height: 100%;
+}
+#d1 img{width: 100%;}
+.title{margin: 35px 0 20px;}
+.title:first-child{margin-top: 0}
+.box_is_stacked{margin-bottom: 20px}
+.section h2{
+    font-size: 22px;
+    font-weight: 600;
+}
+#box_12px .box{
+    padding: 12px;
+    border-bottom: 1px solid #dbdbdb;
+}
+#box_12px .box:last-child{border: none;}
+.f{display: flex}
+.f1{
+    width: 40%;
+    font-weight: 700;
+}
+.f2 span{
+    border-radius: 2px;
+    background-color: #dbdbdb;
+    font-size: 12px;
+    padding: 3px 6px;
+}
+.tag{
+    background-color: #40739e!important;
+    color: #fff;
+}
+.yes{
+    background-color: #38ada9!important;
+    color: white;
+}
+.right{
+    width: 25%;
+    margin-left: 20px;
+}
+.right .box:first-child{border-bottom: 1px solid #dbdbdb;}
+.right p{
+    font-weight: normal;
+    color: #32325d;
+}
+.right a{
+    color: #2980b9;
+    text-decoration: none;
+}
+form{margin-top: 20px}
+.input_box{margin-bottom: 15px}
+.title_input{
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 14px;
+}
+.input_box input,textarea{
+    border: 1px solid #dbdbdb;
+    width: 100%;
+    border-radius: 2px;
+    padding-left: 10px;
+    outline: none;
+}
+.input_box input:focus,textarea:focus{
+    border: 2px solid cyan;
+}
+.input_box input{height: 35px;}
+textarea{height: 140px;}
+.button_item button{
+    height: 45px;
+    width: 100%;
+    background-color: #38ada9;
+    color: white;
+    padding: 8px 18px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.Notification2{margin-bottom: 30px}
+.Notification2 p{
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    padding: 20px;
+}
+#b h2,#b h3,#b p{margin: 0}
